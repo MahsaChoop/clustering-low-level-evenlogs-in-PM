@@ -8,3 +8,7 @@ This approach effectively simplifies the output while retaining important proces
 
 Keywords: 
 graph theory, process mining, event log abstraction, unsupervised machine learning algorithms, network theory
+
+![image](https://user-images.githubusercontent.com/113856629/232314267-f77af825-ba42-4b5c-ac80-cd27e33d9c89.png)
+![image](https://user-images.githubusercontent.com/113856629/232314298-cbf2083b-41ab-408f-b39f-4f08d4127e49.png)
+![image](https://user-images.githubusercontent.com/113856629/232314329-ecf2ff38-d81a-48e0-862b-9f2db5c0804e.png)
