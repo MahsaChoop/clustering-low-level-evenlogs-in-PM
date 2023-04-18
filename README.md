@@ -1,4 +1,4 @@
-# clustering-low-level-evenlogs-in-PM
+# clustering-low-level-evenlogs-in-Processmining
 Abstract
 
 
