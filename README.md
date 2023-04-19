@@ -12,4 +12,5 @@ graph theory, process mining, event log abstraction, unsupervised machine learni
 ![image](https://user-images.githubusercontent.com/113856629/232314267-f77af825-ba42-4b5c-ac80-cd27e33d9c89.png)
 ![image](https://user-images.githubusercontent.com/113856629/232314298-cbf2083b-41ab-408f-b39f-4f08d4127e49.png)
 ![image](https://user-images.githubusercontent.com/113856629/232314329-ecf2ff38-d81a-48e0-862b-9f2db5c0804e.png)
+
 This figure generally shows a view of the process of summarizing with the proposed idea. The point is that in summarizing the fine-grained processes, the innovation of this research is that in addition to making the output simpler and more interpretable, the fine-grained activities around the hubs do not disappear in general. In fact, the desired output is the output that does not lose the most important and useful vertices in the process of summarizing the event graph, but also reaches a less complicated graph.
